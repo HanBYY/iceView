@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="forest-core-1.5.19">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/forest-core-1.5.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="avalon-framework-4.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/avalon-framework-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/barcode4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jettison-1.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
