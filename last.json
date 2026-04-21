@@ -1,6 +1,14 @@
 {
   "sites": [
     {
+      "key": "\uD83E\uDDCA\uD83E\uDDCA",
+      "name": "\uD83E\uDDCA\uD83E\uDDCA",
+      "type": 4,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "T4-qingting",
       "name": "肥猫软件公众号回复接口获取新接口",
       "type": 4,
