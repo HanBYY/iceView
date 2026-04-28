@@ -1357,7 +1357,7 @@
     },
     {
       "key": "📺┃︎剧王┃短剧",
-      "name": "📺┃剧王┃短剧 [0.7s]",
+      "name": "📺┃剧王┃短剧 [0.6s]",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
       "searchable": 1,
@@ -1488,7 +1488,7 @@
     },
     {
       "key": "drpy_js_310直播",
-      "name": "🏀┃体育┃直播 [0.6s]",
+      "name": "🏀┃体育┃直播 [0.8s]",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "changeable": 0,
@@ -1504,7 +1504,7 @@
     },
     {
       "key": "儿童",
-      "name": "📚┃儿童┃启蒙 [1.6s]",
+      "name": "📚┃儿童┃启蒙 [0.6s]",
       "type": 3,
       "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 0,
@@ -2060,7 +2060,7 @@
     },
     {
       "key": "虎牙js",
-      "name": "🐯虎牙┃直播 [0.7s]",
+      "name": "🐯虎牙┃直播 [0.6s]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
@@ -2078,7 +2078,7 @@
     },
     {
       "key": "斗鱼js",
-      "name": "🐟斗鱼┃直播 [0.5s]",
+      "name": "🐟斗鱼┃直播 [0.6s]",
       "type": 3,
       "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
@@ -2202,7 +2202,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙 [0.5s]",
+      "name": "📚儿童┃启蒙 [0.6s]",
       "type": 3,
       "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -3960,7 +3960,7 @@
     },
     {
       "key": "豆瓣2",
-      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
+      "name": "📢龙马精神、金戈铁马、骏马迎春、马行千里！",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -4336,7 +4336,7 @@
     },
     {
       "key": "永乐",
-      "name": "🥇永乐｜影视 [0.2s]",
+      "name": "🥇永乐｜影视 [2.0s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js",
       "searchable": 1,
@@ -4345,7 +4345,7 @@
     },
     {
       "key": "金牌123",
-      "name": "🥇金牌｜影视 [0.1s]",
+      "name": "🥇金牌｜影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js",
       "searchable": 1,
@@ -4372,7 +4372,7 @@
     },
     {
       "key": "爱看机器1人",
-      "name": "🥇爱看┃影视 [0.2s]",
+      "name": "🥇爱看┃影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/爱看机器人.js",
       "searchable": 1,
@@ -4399,7 +4399,7 @@
     },
     {
       "key": "耐看",
-      "name": "🥇耐看┃影视 [0.1s]",
+      "name": "🥇耐看┃影视 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/耐看.js",
       "searchable": 1,
@@ -4503,7 +4503,7 @@
     },
     {
       "key": "魔都资源",
-      "name": "🤣魔都┃动漫 [0.9s]",
+      "name": "🤣魔都┃动漫 [0.8s]",
       "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -5231,7 +5231,7 @@
     },
     {
       "key": "剧和短剧",
-      "name": "🌸聚合｜短剧 [0.3s]",
+      "name": "🌸聚合｜短剧 [0.4s]",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -5265,7 +5265,7 @@
     },
     {
       "key": "采集之王",
-      "name": "🐢采集｜合集 [0.4s]",
+      "name": "🐢采集｜合集 [0.2s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json",
@@ -5405,7 +5405,7 @@
     },
     {
       "key": "非凡",
-      "name": "非凡┃影视 [0.4s]",
+      "name": "非凡┃影视 [0.9s]",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -6398,5 +6398,3 @@
   ],
   "spider": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098"
 }
-
-
