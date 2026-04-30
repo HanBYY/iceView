@@ -1,24 +1,8 @@
 {
   "urls": [
     {
-      "name": "进恩哥",
-      "url": "http://jinenyy.vip/app/tvbox/tvbox.json"
-    },
-    {
-      "name": "巧儿接口",
-      "url": "http://pandown.pro/tvbox/tvbox.json"
-    },
-    {
-      "name": "橘子柚",
-      "url": "https://juziyou.vip/tv"
-    },
-    {
       "name": "俊佬",
       "url": "http://home.jundie.top:81/top98.json"
-    },
-    {
-      "name": "恋影接口",
-      "url": "https://www.lianyingtv.com/fast/fast"
     },
     {
       "name": "小苹果",
@@ -29,107 +13,63 @@
       "url": "http://9xi4o.tk/0725.json"
     },
     {
-      "name": "蚂蚁论坛",
-      "url": "https://la.kstore.space/download/2883/0110.txt"
-    },
-    {
       "name": "其他接口",
       "url": "http://pandown.pro/tvbox/tvbox.json"
     },
     {
-      "name": "巧技【wmdz.top】",
+      "name": "巧技",
       "url": "http://cdn.qiaoji8.com/tvbox.json"
     },
     {
-      "name": "青檬【wmdz.top】",
+      "name": "青檬",
       "url": "https://11293.kstore.space/%E8%A5%BF%E6%9F%9Ays.json"
     },
     {
-      "name": "真心【wmdz.top】",
+      "name": "真心",
       "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json"
     },
     {
-      "name": "多多【wmdz.top】",
-      "url": "https://yydsys.netlify.app/config.json"
-    },
-    {
-      "name": "驸马【wmdz.top】",
+      "name": "驸马",
       "url": "http://fmys.top/fmys.json"
     },
     {
-      "name": "传说【wmdz.top】",
+      "name": "传说",
       "url": "https://chuanshuo.77blog.cn/tv.json"
     },
     {
-      "name": "蓝天【wmdz.top】",
-      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"
-    },
-    {
-      "name": "天微【wmdz.top】",
-      "url": "https://7337.kstore.vip/tw.json"
-    },
-    {
-      "name": "二小【wmdz.top】",
+      "name": "二小",
       "url": "http://tvbox.王二小放牛娃.top"
     },
     {
-      "name": "七星【wmdz.top】",
+      "name": "七星",
       "url": "https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json"
     },
     {
-      "name": "毒盒【wmdz.top】",
-      "url": "https://xn--8owq8u.com/tv/"
-    },
-    {
-      "name": "高天【wmdz.top】",
+      "name": "高天-挖掘机",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"
     },
     {
-      "name": "南风【wmdz.top】",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-    },
-    {
-      "name": "小马【wmdz.top】",
-      "url": "https://szyyds.cn/tv/x.json"
-    },
-    {
-      "name": "蜗牛【wmdz.top】",
+      "name": "蜗牛",
       "url": "https://tv.xn--11x555b.top/svip"
     },
     {
-      "name": "传说【wmdz.top】",
+      "name": "传说",
       "url": "https://chuanshuo.77blog.cn/tv.json"
     },
     {
-      "name": "朱雀【wmdz.top】",
-      "url": "https://gitee.com/yiwu369/6758/raw/master/朱雀/api.json"
-    },
-    {
-      "name": "香雅【wmdz.top】",
-      "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-    },
-    {
-      "name": "动漫【wmdz.top】",
-      "url": "https://www.yingm.cc/dm/dm.json"
-    },
-    {
-      "name": "宝盒【wmdz.top】",
+      "name": "宝盒",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json"
     },
     {
-      "name": "T4源【wmdz.top】",
-      "url": "https://gitee.com/free-kingdom/dc/raw/main/T4.json"
-    },
-    {
-      "name": "茄子【wmdz.top】",
+      "name": "茄子",
       "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json"
     },
     {
-      "name": "肥猫【wmdz.top】",
+      "name": "肥猫",
       "url": "http://肥猫.com"
     },
     {
-      "name": "俊佬【wmdz.top】",
+      "name": "俊佬",
       "url": "http://home.jundie.top:81/top98.json"
     },
     {
