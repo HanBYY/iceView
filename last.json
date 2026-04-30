@@ -1,620 +1,6 @@
 {
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "【ICE】🐼┃┃",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "豆瓣预告",
-      "name": "【ICE】🐼┃豆瓣┃预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "config",
-      "name": "【ICE】🐼┃配置┃中心 「肥猫」",
-      "type": 3,
-      "api": "csp_Config",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "living",
-      "name": "【ICE】🐼┃游戏┃直播 「肥猫」",
-      "type": 3,
-      "api": "csp_Living",
-      "playerType": 2,
-      "ext": "https://lemonlive-api-1.deno.dev",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_FeiMaoUC",
-      "name": "【ICE】⚡┃闪电┃优汐 「肥猫」",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://shandian.blog/",
-          "https://sd.sduc.site"
-        ],
-        "url_key": "FeiMaoUC"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_Duopan",
-      "name": "【ICE】🖍︎┃蜡笔┃影视 「肥猫」",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://xiaocge.fun",
-          "http://feimo.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocgege.shop",
-          "http://www.xiaocgege.shop"
-        ],
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        },
-        "url_key": "Duopan2"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_Netfixtv",
-      "name": "【ICE】💌┃️至臻┃影视 「肥猫」",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://pan.mihdr.top",
-          "https://www.zhizhen1.top",
-          "https://www.mihdr.top",
-          "https://www.miqk.cc",
-          "https://www.zhizhenpan.com",
-          "https://www.zhizhen8.click"
-        ],
-        "url_key": "Netfixtv2",
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        }
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "潮流",
-      "name": "【ICE】🏜┃潮流┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "http://v.rbotv.cn",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "肥猫",
-      "name": "【ICE】🐼┃肥猫┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "干饭",
-      "name": "【ICE】🍚┃干饭┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://www.613mf4k12.top|1234567887654321",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "光盘",
-      "name": "【ICE】📀┃光盘┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "再来",
-      "name": "【ICE】✌️┃再来┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://cy.baige.asia|599D0FE5178642FD",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "一碗",
-      "name": "【ICE】🥣┃一碗┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://vv.229d.cn|8888888888888888",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "猫抓",
-      "name": "【ICE】🐱┃猫抓┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "仓鼠",
-      "name": "【ICE】🐹┃耗子┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "蔬菜",
-      "name": "【ICE】🫛┃蔬菜┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "黑猫",
-      "name": "【ICE】🐼┃黑猫┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://qiyiys.cc|45452893929B40D9",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "兔子",
-      "name": "【ICE】🐇┃兔子┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "火猫",
-      "name": "【ICE】😻┃火猫┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": "K7euwjrJ27dYwEGVkeGRDLiIPbDgofNjwCk3p5BrxKe1WWueWIgazExL7KeqSINJOPRzkplAOtP+hTXxaeVDeOccRBahLmupQ3fYc6ogNk5FiENWm5pQSXsfQ6128/WfOimIH4TLkzA04Y6EFxXaLi3Wtmv9wRqBB7W7abNwXzDNx5lbJf6xgU6KLRt1d4N7NVfZCB6DW2T34TpuYagoWg==",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_AppSymx",
-      "name": "【ICE】🏔┃️木兮┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_Symx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_AppJg",
-      "name": "【ICE】🍧┃坚果┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppJg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "3Q",
-      "name": "【ICE】3️⃣┃3Q┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_App3Q",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_Jpys",
-      "name": "【ICE】🥇️┃金牌┃影视 「肥猫」",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_Wwys",
-      "name": "【ICE】🌾️┃农民┃影视 「肥猫」",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "荐片",
-      "name": "【ICE】🎬┃荐片┃影视 「肥猫」",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "https://ev2089.zxbwv.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_SaoHuo",
-      "name": "【ICE】🔥┃火火┃影视 「肥猫」",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "playerType": 2,
-      "ext": "https://shdy5.us",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_Gz360",
-      "name": "【ICE】🍉┃瓜子┃影视 「肥猫」",
-      "type": 3,
-      "api": "csp_Gz360",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_LiteApple",
-      "name": "【ICE】🍎┃苹果┃影视 「肥猫」",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "厂长",
-      "name": "【ICE】🏭┃厂长┃影视 「肥猫」",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.cz01.org",
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_AppXY",
-      "name": "【ICE】🎀️┃星牙┃短剧 [0.6s]",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "📺┃︎剧王┃短剧",
-      "name": "【ICE】📺┃剧王┃短剧 [0.6s]",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_SP360",
-      "name": "【ICE】📺┃360┃官源 「肥猫」",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_Bili",
-      "name": "【ICE】🅱┃️哔哩┃合集 「肥猫」",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "【ICE】🤣┃动漫┃巴士 「肥猫」",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Dm84",
-      "ext": "https://dm84.net",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "丫丫",
-      "name": "【ICE】🐷┃丫丫┃动漫 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_FirstAid",
-      "name": "【ICE】🚑┃急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "gridview": "0-0-4.1",
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "酷狗",
-      "name": "【ICE】🐾┃酷狗┃音乐 「肥猫」",
-      "type": 3,
-      "api": "csp_Kugou",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "MTV",
-      "name": "【ICE】🎧┃明星┃MV 「肥猫」",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "看球",
-      "name": "【ICE】⚾┃看球┃直播 「肥猫」",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "【ICE】🏀┃体育┃直播 [0.5s]",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "儿童",
-      "name": "【ICE】📚┃儿童┃启蒙 [0.5s]",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_少儿",
-      "name": "【ICE】📚┃少儿┃教育 「肥猫」",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "https://img2.gelonghui.com/library/1903b-eb0f1675-2437-4e72-bcf0-427b1626d79fnull",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_小学",
-      "name": "【ICE】📚┃小学┃课堂 「肥猫」",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "https://img2.gelonghui.com/library/a1140-144855fe-3eaa-44f3-b689-6812c233de54null",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_初中",
-      "name": "【ICE】📚┃初中┃课堂 「肥猫」",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "https://img2.gelonghui.com/library/ba156-73e16cad-8257-4f33-b8c0-e051e72e546dnull",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "csp_高中",
-      "name": "【ICE】📚┃高中┃课堂 「肥猫」",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "https://img2.gelonghui.com/library/e44b3-4a82ab48-e014-49b2-bb66-ee5207e8f195null",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "push_agent",
-      "name": "【ICE】",
-      "type": 3,
-      "api": "csp_Push",
-      "playerType": "1",
-      "searchable": 0,
-      "ext": ".json/txt/ken.txt",
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
       "key": "点我切源",
       "name": "【ICE】新增嘟嘟盘，到【太太太硬了】领免费容量",
       "type": 3,
@@ -624,7 +10,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "MDrive",
@@ -642,7 +28,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "玩偶",
@@ -657,7 +43,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "YGP",
@@ -668,7 +54,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "MTV1",
@@ -684,7 +70,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "seed",
@@ -700,7 +86,7 @@
         "type": "list"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "ZPan",
@@ -711,14 +97,14 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://152.53.164.245:18080/"
+        "siteUrl": "https://ps.i3ei.com/"
       },
       "indexs": 0,
       "style": {
         "type": "list"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "云播",
@@ -730,7 +116,7 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "立播",
@@ -745,7 +131,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "奶酪",
@@ -757,11 +143,11 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0=",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
-      "key": "厂长_2",
-      "name": "【ICE】📔厂长┃秒播(2) 「饭太硬」",
+      "key": "厂长",
+      "name": "【ICE】📔厂长┃秒播 「饭太硬」",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -770,7 +156,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "文采",
@@ -783,7 +169,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "原创",
@@ -796,7 +182,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "比特",
@@ -808,7 +194,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "糯米",
@@ -820,7 +206,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "热播",
@@ -834,7 +220,7 @@
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU=",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "剧圈",
@@ -847,7 +233,7 @@
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "视界",
@@ -860,7 +246,7 @@
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "花花",
@@ -873,7 +259,7 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "播客",
@@ -886,7 +272,7 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "爱影",
@@ -899,7 +285,7 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "猫猫",
@@ -910,9 +296,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "奥特",
@@ -924,11 +310,11 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
-      "key": "荐片_2",
-      "name": "【ICE】🐭荐片┃P2P(2) 「饭太硬」",
+      "key": "荐片",
+      "name": "【ICE】🐭荐片┃P2P 「饭太硬」",
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
@@ -937,7 +323,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "新6V",
@@ -950,7 +336,7 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "咕咕",
@@ -963,7 +349,7 @@
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "Dm84",
@@ -975,7 +361,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "Anime1",
@@ -987,7 +373,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "88",
@@ -1002,7 +388,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "超全",
@@ -1016,11 +402,11 @@
         "type": "list"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
-      "key": "看球_2",
-      "name": "【ICE】⚽手机┃看球(2)",
+      "key": "看球",
+      "name": "【ICE】⚽手机┃看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
       "timeout": 10,
@@ -1031,11 +417,11 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
-      "key": "MTV_2",
-      "name": "【ICE】🎶明星┃MV(2)",
+      "key": "MTV",
+      "name": "【ICE】🎶明星┃MV",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -1049,7 +435,7 @@
         "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "有声小说",
@@ -1064,7 +450,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "Aid",
@@ -1079,7 +465,7 @@
         "ratio": 3.8
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "虎牙js",
@@ -1097,7 +483,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "斗鱼js",
@@ -1115,7 +501,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "抠搜",
@@ -1129,7 +515,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "UC",
@@ -1143,11 +529,11 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
-      "key": "米搜_2",
-      "name": "【ICE】🦋米搜┃夸嘟(2) 「饭太硬」",
+      "key": "米搜",
+      "name": "【ICE】🦋米搜┃夸嘟 「饭太硬」",
       "type": 3,
       "api": "csp_MIPanSoGuard",
       "searchable": 1,
@@ -1157,7 +543,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "YpanSo",
@@ -1171,7 +557,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "BpanSo",
@@ -1185,11 +571,11 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
-      "key": "push_agent_2",
-      "name": "【ICE】🛴手机┃推送(2)",
+      "key": "push_agent",
+      "name": "【ICE】🛴手机┃推送",
       "type": 3,
       "api": "csp_PushGuard",
       "searchable": 0,
@@ -1198,7 +584,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "Bili",
@@ -1216,7 +602,7 @@
         "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "Biliych",
@@ -1234,7 +620,7 @@
         "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "dr_兔小贝",
@@ -1250,7 +636,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "少儿教育",
@@ -1268,7 +654,7 @@
         "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "小学课堂",
@@ -1286,7 +672,7 @@
         "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "初中课堂",
@@ -1304,7 +690,7 @@
         "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "高中教育",
@@ -1322,7 +708,7 @@
         "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "fan",
@@ -1333,7 +719,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "cc",
@@ -1344,7 +730,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/bb41630d62485b4e6645f39c35a83d30;md5;bb41630d62485b4e6645f39c35a83d30"
+      "jar": "http://192.168.0.104:9999/jar/ee702f5f6eca6841835f5c14d05445d4;md5;ee702f5f6eca6841835f5c14d05445d4"
     },
     {
       "key": "天天",
@@ -1702,8 +1088,8 @@
       "jar": "http://192.168.0.104:9999/jar/1069df603996411da45b18bc718959ca;md5;1069df603996411da45b18bc718959ca"
     },
     {
-      "key": "push_agent_3",
-      "name": "【ICE】推送(3)",
+      "key": "push_agent_2",
+      "name": "【ICE】推送(2)",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
@@ -1714,7 +1100,7 @@
     },
     {
       "key": "豆瓣2",
-      "name": "【ICE】📢网络收集免费仅限测试用内置接口会崩溃！",
+      "name": "【ICE】📢网络收集勿演示贩卖！严谨用于任何商业用途！",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -1729,6 +1115,16 @@
       "searchable": 1,
       "jar": "http://192.168.0.104:9999/jar/ff4f99fad585f4935fcaa06e3092e44a;md5;ff4f99fad585f4935fcaa06e3092e44a",
       "ext": "https://tv.nxog.top/m/公告?b=tv",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "config",
+      "name": "【ICE】🐲歌配置｜中心",
+      "type": 3,
+      "jar": "http://192.168.0.104:9999/jar/fb2c84ce1e3d69aa669be42e7fd3539b;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
+      "api": "csp_Config",
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -1814,8 +1210,8 @@
       }
     },
     {
-      "key": "荐片_3",
-      "name": "【ICE】💡荐片｜影视(3) 「春莹天下」",
+      "key": "荐片_2",
+      "name": "【ICE】💡荐片｜影视(2) 「春莹天下」",
       "api": "csp_JianPian",
       "type": 3,
       "searchable": 1,
@@ -1944,6 +1340,21 @@
         "dataKey": "zxPtEUDGVllIUhDB",
         "dataIv": "zxPtEUDGVllIUhDB",
         "ua": "okhttp/3.10.0"
+      },
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "黑猫",
+      "name": "【ICE】👑黑猫｜影视 「春莹天下」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa"
       },
       "quickSearch": 1,
       "filterable": 1
@@ -2090,7 +1501,7 @@
     },
     {
       "key": "永乐",
-      "name": "【ICE】🥇永乐｜影视 [0.2s]",
+      "name": "【ICE】🥇永乐｜影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js",
       "searchable": 0,
@@ -2108,7 +1519,7 @@
     },
     {
       "key": "海龟",
-      "name": "【ICE】🥇海龟｜影视 [0.2s]",
+      "name": "【ICE】🥇海龟｜影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/海龟.js",
       "searchable": 0,
@@ -2126,7 +1537,7 @@
     },
     {
       "key": "爱看机器1人",
-      "name": "【ICE】🥇爱看┃影视 [0.2s]",
+      "name": "【ICE】🥇爱看┃影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/爱看机器人.js",
       "searchable": 0,
@@ -2144,7 +1555,7 @@
     },
     {
       "key": "星辰影院",
-      "name": "【ICE】🥇星辰┃影视 [0.2s]",
+      "name": "【ICE】🥇星辰┃影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/星辰影院.js",
       "searchable": 0,
@@ -2162,7 +1573,7 @@
     },
     {
       "key": "独播库",
-      "name": "【ICE】🥇播库┃影视 [0.2s]",
+      "name": "【ICE】🥇播库┃影视 [0.1s]",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js",
       "searchable": 0,
@@ -2257,7 +1668,7 @@
     },
     {
       "key": "魔都资源",
-      "name": "【ICE】🤣魔都┃动漫 「春莹天下」 [1.4s]",
+      "name": "【ICE】🤣魔都┃动漫 「春莹天下」 [1.1s]",
       "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -2985,7 +2396,7 @@
     },
     {
       "key": "剧和短剧",
-      "name": "【ICE】🌸聚合｜短剧 [0.4s]",
+      "name": "【ICE】🌸聚合｜短剧 [0.5s]",
       "type": 3,
       "searchable": 0,
       "quickSearch": 1,
@@ -3060,6 +2471,16 @@
       }
     },
     {
+      "key": "push_agent_3",
+      "name": "【ICE】📢手机｜推送(3)",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "quickSearch": 1
+    },
+    {
       "key": "应用商店",
       "name": "【ICE】🛒本地包更新",
       "type": 3,
@@ -3089,8 +2510,8 @@
       "filterable": 1
     },
     {
-      "key": "豆瓣_2",
-      "name": "【ICE】豆瓣┃推荐(2)",
+      "key": "豆瓣",
+      "name": "【ICE】豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDouGuard",
       "searchable": 0,
@@ -3124,6 +2545,102 @@
       "jar": "http://192.168.0.104:9999/jar/32091ed00f3c6bab72ba657bdc1599c8;md5;32091ed00f3c6bab72ba657bdc1599c8"
     },
     {
+      "key": "潮流",
+      "name": "【ICE】潮流┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://v.rbotv.cn",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "肥猫",
+      "name": "【ICE】肥猫┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "干饭",
+      "name": "【ICE】干饭┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "光盘",
+      "name": "【ICE】光盘┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "行动",
+      "name": "【ICE】行动┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://165.99.42.137:5432|1234567890987654",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "猫抓",
+      "name": "【ICE】猫抓┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "仓鼠",
+      "name": "【ICE】耗子┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蔬菜",
+      "name": "【ICE】蔬菜┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "优优",
       "name": "【ICE】优优┃APP 「菜妮丝」",
       "type": 3,
@@ -3131,6 +2648,98 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://ios.hgyx.vip|062dec75d039980e",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "兔子",
+      "name": "【ICE】兔子┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "永永",
+      "name": "【ICE】永永┃APP 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "【ICE】金牌┃影视 「菜妮丝」",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "【ICE】火火┃影视 「菜妮丝」",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://shdy5.us",
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "【ICE】瓜子┃影视 「菜妮丝」",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppXY",
+      "name": "【ICE】星牙┃短剧 [0.6s]",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+      "searchable": 0,
+      "changeable": 1,
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "📺┃︎剧王┃短剧",
+      "name": "【ICE】剧王┃短剧 [0.6s]",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
+      "searchable": 0,
+      "changeable": 1,
+      "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "丫丫",
+      "name": "【ICE】丫丫┃动漫 「菜妮丝」",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
       "jar": "http://192.168.0.104:9999/jar/43439ab24ef55a81150ca64aa9383da2;md5;43439ab24ef55a81150ca64aa9383da2",
       "quickSearch": 1,
       "filterable": 1
@@ -3159,7 +2768,7 @@
     },
     {
       "key": "非凡",
-      "name": "【ICE】非凡┃影视 「菜妮丝」 [0.5s]",
+      "name": "【ICE】非凡┃影视 「菜妮丝」 [0.4s]",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -3256,7 +2865,7 @@
     },
     {
       "key": "文采_2",
-      "name": "【ICE】💮文采┃秒播(2) 「肥猫」",
+      "name": "【ICE】💮文采┃秒播(2) 「巧记」",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
@@ -3385,7 +2994,7 @@
     },
     {
       "key": "星河_2",
-      "name": "【ICE】💥可以｜1080P(2) 「肥猫」",
+      "name": "【ICE】💥可以｜1080P(2) 「春莹天下」",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -3432,6 +3041,17 @@
       "searchable": 1
     },
     {
+      "key": "csp_Wwys",
+      "name": "【ICE】🔥农民┃影视 「茄子接口」",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200",
+      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "闪影",
       "name": "【ICE】🔥闪影┃秒播 「茄子接口」",
       "type": 3,
@@ -3447,6 +3067,17 @@
         "综艺",
         "动漫"
       ],
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+    },
+    {
+      "key": "荐片_3",
+      "name": "【ICE】🔥荐片┃磁力(3) 「茄子接口」",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "ext": "https://api.ztcgi.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
@@ -3470,7 +3101,7 @@
     },
     {
       "key": "如意采集资源",
-      "name": "【ICE】🔥如意┃采集 「茄子接口」 [0.6s]",
+      "name": "【ICE】🔥如意┃采集 「茄子接口」 [0.4s]",
       "type": 1,
       "api": "https://cj.rycjapi.com/api.php/provide/vod/",
       "playerType": 1,
@@ -3854,56 +3485,6 @@
     }
   ],
   "parses": [
-    {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "http://xn--z7x900a.com/Demo"
-    },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "http://xn--z7x900a.com/Web"
-    },
-    {
-      "name": "qiyi[官源]",
-      "type": 1,
-      "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
-    },
-    {
-      "name": "肥猫最可爱",
-      "type": 1,
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
     {
       "name": "解析聚合",
       "type": 3,
@@ -4375,20 +3956,6 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "develop202",
-      "type": 0,
-      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "Kimentanm",
-      "type": 0,
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
@@ -4455,6 +4022,18 @@
       "ua": "bingcha/1.1(mianfeifenxiang)"
     },
     {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+    },
+    {
+      "name": "develop202",
+      "type": 0,
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "吃猫的鱼live-IPV6",
       "type": 0,
       "url": "https://live.ottiptv.cc/iptv.m3u?userid=1882958497&sign=bc5d19bb4fdb98b4fd26a427105f63a3f9b097ab84141ff24cd4e5ceecfa82e40b2973fe1976785da9f7eeeca683066b330f97a7f8341325d668fa9bd3251ee8f96bd5b49b6d25&auth_token=2f795ef750a51559ef843bbbc44d498a",
@@ -4488,114 +4067,28 @@
     }
   ],
   "hosts": [
-    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
-    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
-    "cdn9.163189.xyz=gcore.jsdelivr.net",
-    "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
-    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com",
     "img1.wsyzy.org=danmu.888484.xyz",
     "fiizvfck.top=danmu.888484.xyz",
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+    "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
     "iptv.huuc.edu.cn=huucv6.188766.xyz"
   ],
   "rules": [
     {
-      "name": "♻️量非",
+      "name": "cdn.ryplay",
       "hosts": [
-        "ffzy",
-        "hd.ffzy",
-        "hd.lz",
-        "lz",
-        "v.cdnlz",
-        "vip.ffzy",
-        "vip.lz"
+        "cdn.ryplay"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "5.480000",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
     {
-      "name": "♻️索尼",
-      "hosts": [
-        "qrssv.com",
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666",
-        "15.2666"
-      ]
-    },
-    {
-      "name": "♻️乐视",
-      "hosts": [
-        "leshiyun"
-      ],
-      "regex": [
-        "15.92"
-      ]
-    },
-    {
-      "name": "♻️优质",
-      "hosts": [
-        "playback",
-        "yzzy"
-      ],
-      "regex": [
-        "16.63",
-        "18.66",
-        "17.66",
-        "19.13"
-      ]
-    },
-    {
-      "name": "♻️快看",
-      "hosts": [
-        "kuaikan",
-        "vip.kuaikan"
-      ],
-      "regex": [
-        "15.32",
-        "15.231",
-        "18.066"
-      ]
-    },
-    {
-      "name": "♻️360",
-      "hosts": [
-        "lyhuicheng"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
-        "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "♻️开源棋牌",
-      "hosts": [
-        "askzycdn",
-        "bfaskcdn",
-        "bfikuncdn",
-        "jkunbf"
-      ],
-      "regex": [
-        "#EXT-X-KEY:METHOD=NONE\r*\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\r*\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "♻️暴风",
-      "hosts": [
-        "bfengbf.com",
-        "bfzy",
-        "c1"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
-        "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "♻️农民",
+      "name": "农民",
       "hosts": [
         "toutiaovod.com"
       ],
@@ -4604,7 +4097,7 @@
       ]
     },
     {
-      "name": "♻️火山",
+      "name": "火山",
       "hosts": [
         "huoshan.com"
       ],
@@ -4613,7 +4106,7 @@
       ]
     },
     {
-      "name": "♻️抖音",
+      "name": "抖音",
       "hosts": [
         "douyin.com"
       ],
@@ -4622,14 +4115,11 @@
       ]
     },
     {
-      "name": "♻️磁力",
+      "name": "磁力广告",
       "hosts": [
         "magnet"
       ],
       "regex": [
-        "最 新",
-        "直 播",
-        "更 新",
         "更多",
         "请访问",
         "example",
@@ -4650,43 +4140,30 @@
         "最新",
         "社 區",
         "x u u",
+        "直 播",
+        "更 新",
         "社 区",
         "有 趣"
       ]
     },
     {
-      "name": "♻️饭团点击",
+      "name": "饭团点击",
       "hosts": [
         "dadagui",
         "dadagui",
         "freeok"
       ],
       "script": [
-        "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
         "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
       ]
     },
     {
-      "name": "♻️毛驴点击",
+      "name": "毛驴点击",
       "hosts": [
         "www.maolvys.com"
       ],
       "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()",
         "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
-      ]
-    },
-    {
-      "name": "cdn.ryplay",
-      "hosts": [
-        "cdn.ryplay"
-      ],
-      "regex": [
-        "5.480000",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
     {
@@ -4923,8 +4400,8 @@
     }
   ],
   "ads": [
-    "static-mozai.4gtv.tv",
     "43.248.128.138",
+    "static-mozai.4gtv.tv",
     "mozai.4gtv.tv",
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
