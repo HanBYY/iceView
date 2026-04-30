@@ -157,17 +157,6 @@
       "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
-      "key": "行动",
-      "name": "【ICE】😌┃行动┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://165.99.42.137:5432|1234567890987654",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
       "key": "再来",
       "name": "【ICE】✌️┃再来┃APP 「肥猫」",
       "type": 3,
@@ -239,17 +228,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
-    },
-    {
-      "key": "永永",
-      "name": "【ICE】♾️┃永永┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
