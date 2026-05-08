@@ -778,12 +778,6 @@ public class parsingUrl {
     }
 
 
-    public static void replaceUrl() throws IOException {
-
-        String string = "http://tvbox.王二小放牛娃.top/";
-
-        System.out.println( string.replace("http://192.168.0.104:9999","https://cdn.jsdelivr.net/gh/HanBYY/iceView@main/jars/"));
-    }
 
 
 

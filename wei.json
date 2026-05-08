@@ -10,7 +10,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "MDrive",
@@ -28,7 +28,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "玩偶",
@@ -43,7 +43,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "YGP",
@@ -54,7 +54,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "MTV1",
@@ -70,7 +70,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "seed",
@@ -86,7 +86,7 @@
         "type": "list"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "ZPan",
@@ -104,7 +104,7 @@
         "type": "list"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "云播",
@@ -116,7 +116,7 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "立播",
@@ -131,7 +131,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "奶酪",
@@ -143,7 +143,7 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0=",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "厂长",
@@ -156,7 +156,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "文采",
@@ -169,7 +169,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "原创",
@@ -182,7 +182,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "比特",
@@ -194,7 +194,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "糯米",
@@ -206,7 +206,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "热播",
@@ -220,7 +220,7 @@
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU=",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "剧圈",
@@ -233,7 +233,7 @@
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "视界",
@@ -246,7 +246,7 @@
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "花花",
@@ -259,7 +259,7 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "播客",
@@ -272,7 +272,7 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "爱影",
@@ -285,7 +285,7 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "猫猫",
@@ -298,7 +298,7 @@
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "奥特",
@@ -310,7 +310,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "荐片",
@@ -323,7 +323,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "新6V",
@@ -336,7 +336,7 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "咕咕",
@@ -349,7 +349,7 @@
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "Dm84",
@@ -361,7 +361,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "Anime1",
@@ -373,7 +373,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "88",
@@ -388,7 +388,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "超全",
@@ -402,7 +402,7 @@
         "type": "list"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "看球",
@@ -417,7 +417,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "MTV",
@@ -435,7 +435,7 @@
         "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "有声小说",
@@ -450,7 +450,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "Aid",
@@ -465,7 +465,7 @@
         "ratio": 3.8
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "虎牙js",
@@ -483,7 +483,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "斗鱼js",
@@ -501,7 +501,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "抠搜",
@@ -515,7 +515,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "UC",
@@ -529,7 +529,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "米搜",
@@ -543,7 +543,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "YpanSo",
@@ -557,7 +557,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "BpanSo",
@@ -571,7 +571,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "push_agent",
@@ -584,7 +584,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "Bili",
@@ -602,7 +602,7 @@
         "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "Biliych",
@@ -620,7 +620,7 @@
         "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "dr_兔小贝",
@@ -636,7 +636,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "少儿教育",
@@ -654,7 +654,7 @@
         "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "小学课堂",
@@ -672,7 +672,7 @@
         "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "初中课堂",
@@ -690,7 +690,7 @@
         "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "高中教育",
@@ -708,7 +708,7 @@
         "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "fan",
@@ -719,7 +719,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "cc",
@@ -730,7 +730,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/394088da0b87273cd735783f352e3803;md5;394088da0b87273cd735783f352e3803"
     },
     {
       "key": "豆瓣2",
@@ -747,7 +747,7 @@
       "type": 3,
       "api": "csp_Notice",
       "searchable": 1,
-      "jar": "http://192.168.0.104:9999/jar/ff4f99fad585f4935fcaa06e3092e44a;md5;ff4f99fad585f4935fcaa06e3092e44a",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/ff4f99fad585f4935fcaa06e3092e44a;md5;ff4f99fad585f4935fcaa06e3092e44a",
       "ext": "https://tv.nxog.top/m/公告?b=tv",
       "quickSearch": 1,
       "filterable": 1
@@ -756,7 +756,7 @@
       "key": "config",
       "name": "【卫】🐲歌配置｜中心",
       "type": 3,
-      "jar": "http://192.168.0.104:9999/jar/fb2c84ce1e3d69aa669be42e7fd3539b;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/fb2c84ce1e3d69aa669be42e7fd3539b;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
       "api": "csp_Config",
       "searchable": 0,
       "quickSearch": 1,
@@ -783,7 +783,7 @@
       "changeable": "0",
       "api": "csp_Duopan",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/95d710fd96c41285f275b40ee4272a75;md5;95d710fd96c41285f275b40ee4272a75",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/95d710fd96c41285f275b40ee4272a75;md5;95d710fd96c41285f275b40ee4272a75",
       "ext": {
         "site_urls": [
           "https://woog.nxog.fun",
@@ -808,7 +808,7 @@
       "changeable": "0",
       "api": "csp_Duopan",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/fb2c84ce1e3d69aa669be42e7fd3539b;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/fb2c84ce1e3d69aa669be42e7fd3539b;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
       "ext": {
         "site_urls": [
           "https://ogkk.nxog.fun",
@@ -956,7 +956,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i",
       "searchable": 1,
       "quickSearch": 1,
@@ -968,7 +968,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1",
       "searchable": 1,
       "quickSearch": 1,
@@ -980,7 +980,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l",
       "searchable": 1,
       "quickSearch": 1,
@@ -990,7 +990,7 @@
       "key": "大师兄",
       "name": "【卫】💡师兄┃影视 「春莹天下」",
       "type": 3,
-      "jar": "http://192.168.0.104:9999/jar/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
       "playerType": 2,
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/大师兄.json",
@@ -1004,7 +1004,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
       "searchable": 1,
       "quickSearch": 1,
@@ -1016,7 +1016,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9",
       "searchable": 1,
       "quickSearch": 1,
@@ -1603,7 +1603,7 @@
       "key": "养生堂",
       "name": "【卫】🧿养生｜知识 「春莹天下」",
       "type": 3,
-      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "api": "csp_XBPQ",
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/养生堂.json",
       "style": {
@@ -1619,7 +1619,7 @@
       "name": "【卫】🧿永乐｜影视(2) 「春莹天下」",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -1635,7 +1635,7 @@
       "name": "【卫】🧿农民｜影视 「春莹天下」",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -1651,7 +1651,7 @@
       "name": "【卫】🧿布卡｜影视 「春莹天下」",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -1668,7 +1668,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/啊哈DJ.json",
-      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2177,7 +2177,7 @@
       "key": "Huya",
       "name": "【卫】🎮游戏┃直播",
       "type": 3,
-      "jar": "http://192.168.0.104:9999/jar/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_Huya",
       "searchable": 0,
       "quickSearch": 0,
@@ -2194,7 +2194,7 @@
       "name": "【卫】🎮手游┃直播",
       "type": 3,
       "api": "csp_Douyu",
-      "jar": "http://192.168.0.104:9999/jar/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -2259,7 +2259,7 @@
         "danMu": "弹"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "短剧",
@@ -2270,7 +2270,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "Lib",
@@ -2285,7 +2285,7 @@
         "from": "4k|auto"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "文采_2",
@@ -2297,7 +2297,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "糯米_2",
@@ -2308,7 +2308,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "夸搜",
@@ -2324,7 +2324,7 @@
         "from": "4k|auto|fhd"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "fan_2",
@@ -2335,7 +2335,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "cc_2",
@@ -2346,14 +2346,14 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/2c95657daee463a3"
     },
     {
       "key": "drpy_js_豆瓣",
       "name": "【卫】💖公众号[慢放剧场]防失联💖 「茄子接口」",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "http://192.168.0.104:9999/jar/7cef5e5a24513b88",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/7cef5e5a24513b88",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2368,7 +2368,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/豆瓣[官].js",
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "腾腾",
@@ -2379,13 +2379,13 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "九灵移动",
       "name": "【卫】九灵❤免扫4K 「茄子接口」",
       "type": 3,
-      "jar": "http://192.168.0.104:9999/jar/cbdb43999ed22eb0",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/cbdb43999ed22eb0",
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1,
@@ -2401,7 +2401,7 @@
       "timeout": 12,
       "searchable": 0,
       "ext": "",
-      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/5c06b1be91fe59a6",
       "filterable": 1
     },
     {
@@ -2412,7 +2412,7 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122",
-      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/5c06b1be91fe59a6",
       "quickSearch": 1,
       "filterable": 1
     },
@@ -2423,7 +2423,7 @@
       "timeout": 15,
       "api": "csp_AppGet",
       "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122",
-      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/5c06b1be91fe59a6",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2434,7 +2434,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_App3Q",
-      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/5c06b1be91fe59a6",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2449,7 +2449,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixCuX5/0Mp2gF+GTJvSdMTJO4266ip1AD0eXvwnEHqGEzVGiBZTpoIFlMDVfj2fFMpAmoNbeyAoWe08xR7uumRdghbftYdCX8h2AsbDjnTqpNdSXN735vPYm7ZbtrXT1H6lUUIWjP2LEzU9mhRxGO5UvqxSWuErkHE8synM45vWWFlX/QsjSDq4vFKDafRAGQd5P+lmsj9cLnebY0udLHycf0mzL420O+pTkCOv/yPteMHhEQQcWGSPBrVGnSdq4zWwL03eDX6rA8W4Bsq0+4DIJ0pB2VkZv7DH9Cbeobx17NjiqFegwEoLLX/DKVlyLbD04COtcyReQW84L+ECYdtpVjR9c1T3UMLE7uVvHZq9yhvf/E2xlncht//6Wy9elXWI=",
-      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/5c06b1be91fe59a6",
       "searchable": 1
     },
     {
@@ -2458,7 +2458,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/5c06b1be91fe59a6",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2479,7 +2479,7 @@
         "综艺",
         "动漫"
       ],
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "荐片_3",
@@ -2490,7 +2490,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "火狐",
@@ -2509,7 +2509,7 @@
       },
       "searchable": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "如意采集资源",
@@ -2531,7 +2531,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
-      "jar": "http://192.168.0.104:9999/jar/ca188bc2744ff1ea"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/ca188bc2744ff1ea"
     },
     {
       "key": "哔哩哔哩小品",
@@ -2549,7 +2549,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -2567,7 +2567,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "影视影视",
@@ -2585,7 +2585,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/a312681ce57c0792"
     },
     {
       "key": "360",
@@ -2595,7 +2595,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "nbys",
@@ -2605,7 +2605,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_Alist",
@@ -2637,7 +2637,7 @@
         "🌨秋雨分享": "https://share.laowang.me",
         "💦讯维云盘": "https://pan.xwbeta.com"
       },
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_lez",
@@ -2653,7 +2653,7 @@
           "sort": 1
         }
       },
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_XBPQ_6080",
@@ -2693,7 +2693,7 @@
         "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他内地&港台&日韩&欧美||国产&日本&欧美&其他",
         "筛选": "1"
       },
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_XBPQ_南瓜影视",
@@ -2704,7 +2704,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_biubiu_短视频",
@@ -2715,7 +2715,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_zxzj",
@@ -2726,7 +2726,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/json/XBiu/zxzj.json",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_auete",
@@ -2737,7 +2737,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/json/XBiu/auete.json",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_lib",
@@ -2748,7 +2748,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xbpq_lgyy",
@@ -2759,7 +2759,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_lgyys",
@@ -2770,7 +2770,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "drpy_js_ddys",
@@ -2781,7 +2781,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "drpy_js_akjs",
@@ -2792,7 +2792,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_zbk",
@@ -2803,7 +2803,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_ysgc",
@@ -2814,7 +2814,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_cokemv",
@@ -2825,7 +2825,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "csp_XBPQ_98影院",
@@ -2836,7 +2836,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"免嗅\":\"0\",\"副标题\":\"right\\\"\u003E&&\u003C/span\u003E\",\"播放标题\":\"\u003E&&\u003C/a\u003E\",\"播放数组\":\"\u003Cul class=\\\"stui-content__playlist&&\u003C/ul\u003E\",\"线路数组\": \"\u003Cimg src=&&/h3\u003E\",\"线路标题\": \"\u003E&&\u003C\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "Gitcafe",
@@ -2848,7 +2848,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "token;desc",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "找资源",
@@ -2859,7 +2859,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "upyunsou",
@@ -2871,7 +2871,7 @@
       "playerType": 1,
       "filterable": 0,
       "ext": "token;asc",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "yisou",
@@ -2882,7 +2882,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "AliPS",
@@ -2893,7 +2893,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "push_agent_3",
@@ -2905,7 +2905,7 @@
       "playerType": 1,
       "filterable": 1,
       "ext": "token;desc",
-      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/45d6ea1eee4352ac"
     },
     {
       "key": "豆瓣",
@@ -2915,7 +2915,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "豆瓣预告",
@@ -2926,7 +2926,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "living",
@@ -2938,7 +2938,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_FeiMaoUC",
@@ -2955,7 +2955,7 @@
       },
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Duopan",
@@ -2981,7 +2981,7 @@
       },
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Netfixtv",
@@ -3006,7 +3006,7 @@
       },
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "潮流",
@@ -3017,7 +3017,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "肥猫",
@@ -3028,7 +3028,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "干饭",
@@ -3039,7 +3039,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "光盘",
@@ -3050,7 +3050,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "行动",
@@ -3061,7 +3061,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "再来",
@@ -3072,7 +3072,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "一碗",
@@ -3083,7 +3083,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "猫抓",
@@ -3094,7 +3094,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "仓鼠",
@@ -3105,7 +3105,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "蔬菜",
@@ -3116,7 +3116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "兔子",
@@ -3127,7 +3127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "永永",
@@ -3138,7 +3138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "火猫",
@@ -3149,7 +3149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_AppSymx",
@@ -3159,7 +3159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_AppJg",
@@ -3169,7 +3169,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "3Q",
@@ -3179,7 +3179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Jpys",
@@ -3189,7 +3189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_SaoHuo",
@@ -3201,7 +3201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Gz360",
@@ -3212,7 +3212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_LiteApple",
@@ -3222,7 +3222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "厂长_2",
@@ -3234,7 +3234,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.cz01.org",
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_AppXY",
@@ -3245,7 +3245,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "📺┃︎剧王┃短剧",
@@ -3256,7 +3256,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_SP360",
@@ -3266,7 +3266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Bili",
@@ -3285,7 +3285,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Dm84",
@@ -3297,7 +3297,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "丫丫",
@@ -3308,7 +3308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_FirstAid",
@@ -3323,7 +3323,7 @@
       },
       "gridview": "0-0-4.1",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "酷狗",
@@ -3342,7 +3342,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "MTV_2",
@@ -3361,7 +3361,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "看球_2",
@@ -3376,7 +3376,7 @@
         "type": "list"
       },
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "drpy_js_310直播",
@@ -3392,7 +3392,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "儿童",
@@ -3408,7 +3408,7 @@
       },
       "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_少儿",
@@ -3427,7 +3427,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_小学",
@@ -3446,7 +3446,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_初中",
@@ -3465,7 +3465,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_高中",
@@ -3484,7 +3484,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     }
   ],
   "parses": [
@@ -63321,5 +63321,5 @@
     "m78",
     "renrenmi"
   ],
-  "spider": "http://192.168.0.104:9999/jar/5af5edf697f25b99eb189fb800e1d098;md5;5af5edf697f25b99eb189fb800e1d098"
+  "spider": "https://raw.githubusercontent.com/HanBYY/iceView/main/jars/5af5edf697f25b99eb189fb800e1d098;md5;5af5edf697f25b99eb189fb800e1d098"
 }
