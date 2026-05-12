@@ -8,7 +8,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "豆瓣预告",
@@ -19,7 +19,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "config",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "living",
@@ -42,7 +42,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_FeiMaoUC",
@@ -59,7 +59,7 @@
       },
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Duopan",
@@ -85,7 +85,7 @@
       },
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Netfixtv",
@@ -110,7 +110,7 @@
       },
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "潮流",
@@ -121,7 +121,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "肥猫",
@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "干饭",
@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "光盘",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "行动",
@@ -165,7 +165,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "再来",
@@ -176,7 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "一碗",
@@ -187,7 +187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "猫抓",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "仓鼠",
@@ -209,7 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "蔬菜",
@@ -220,7 +220,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "黑猫",
@@ -231,7 +231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "兔子",
@@ -242,7 +242,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "永永",
@@ -253,7 +253,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "火猫",
@@ -264,7 +264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_AppSymx",
@@ -274,7 +274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_AppJg",
@@ -284,7 +284,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "3Q",
@@ -294,7 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Jpys",
@@ -304,7 +304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Wwys",
@@ -315,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "荐片",
@@ -327,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_SaoHuo",
@@ -339,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Gz360",
@@ -350,7 +350,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_LiteApple",
@@ -360,7 +360,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "厂长",
@@ -372,7 +372,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.cz01.org",
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_AppXY",
@@ -383,7 +383,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "📺┃︎剧王┃短剧",
@@ -394,7 +394,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_SP360",
@@ -404,7 +404,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Bili",
@@ -423,7 +423,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_Dm84",
@@ -435,7 +435,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "丫丫",
@@ -446,7 +446,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_FirstAid",
@@ -461,7 +461,7 @@
       },
       "gridview": "0-0-4.1",
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "酷狗",
@@ -480,7 +480,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "MTV",
@@ -499,7 +499,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "看球",
@@ -514,7 +514,7 @@
         "type": "list"
       },
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "drpy_js_310直播",
@@ -530,7 +530,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "儿童",
@@ -546,7 +546,7 @@
       },
       "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_少儿",
@@ -565,7 +565,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_小学",
@@ -584,7 +584,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_初中",
@@ -603,7 +603,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "csp_高中",
@@ -622,7 +622,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "push_agent",
@@ -634,7 +634,7 @@
       "ext": ".json/txt/ken.txt",
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
+      "jar": "http://192.168.0.104:9999/jar/9c8e45f60d3d413d8b140ec21811deb0;md5;9c8e45f60d3d413d8b140ec21811deb0"
     },
     {
       "key": "玩偶",
@@ -651,7 +651,7 @@
         "danMu": "弹"
       },
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "短剧",
@@ -662,7 +662,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "Lib",
@@ -677,7 +677,7 @@
         "from": "4k|auto"
       },
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "文采",
@@ -689,7 +689,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "糯米",
@@ -700,7 +700,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "夸搜",
@@ -716,7 +716,7 @@
         "from": "4k|auto|fhd"
       },
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "fan",
@@ -727,7 +727,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "cc",
@@ -738,14 +738,14 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/2c95657daee463a3"
+      "jar": "http://192.168.0.104:9999/jar/2c95657daee463a3"
     },
     {
       "key": "drpy_js_豆瓣",
       "name": "【ICE】💖公众号[慢放剧场]防失联💖 「茄子接口」",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "https://file.suoeryun.com/jars/7cef5e5a24513b88",
+      "jar": "http://192.168.0.104:9999/jar/7cef5e5a24513b88",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -760,7 +760,7 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/豆瓣[官].js",
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "配置中心",
@@ -776,7 +776,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "木偶",
@@ -788,7 +788,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/muou.json",
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "二小",
@@ -800,7 +800,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/erxiao.json",
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "至臻",
@@ -812,7 +812,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/Test.json",
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "玩偶_2",
@@ -824,7 +824,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/wanou.json",
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "应用商店",
@@ -836,7 +836,7 @@
       "ext": "http://47.120.41.246:8025/vip/jar/bendi.php",
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "腾腾",
@@ -847,13 +847,13 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "九灵移动",
       "name": "【ICE】九灵❤免扫4K 「茄子接口」",
       "type": 3,
-      "jar": "https://file.suoeryun.com/jars/cbdb43999ed22eb0",
+      "jar": "http://192.168.0.104:9999/jar/cbdb43999ed22eb0",
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1,
@@ -869,7 +869,7 @@
       "timeout": 12,
       "searchable": 0,
       "ext": "",
-      "jar": "https://file.suoeryun.com/jars/5c06b1be91fe59a6",
+      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
       "filterable": 1
     },
     {
@@ -880,7 +880,7 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122",
-      "jar": "https://file.suoeryun.com/jars/5c06b1be91fe59a6",
+      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
       "quickSearch": 1,
       "filterable": 1
     },
@@ -891,7 +891,7 @@
       "timeout": 15,
       "api": "csp_AppGet",
       "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122",
-      "jar": "https://file.suoeryun.com/jars/5c06b1be91fe59a6",
+      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -902,7 +902,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_App3Q",
-      "jar": "https://file.suoeryun.com/jars/5c06b1be91fe59a6",
+      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -917,7 +917,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixCuX5/0Mp2gF+GTJvSdMTJO4266ip1AD0eXvwnEHqGEzVGiBZTpoIFlMDVfj2fFMpAmoNbeyAoWe08xR7uumRdghbftYdCX8h2AsbDjnTqpNdSXN735vPYm7ZbtrXT1H6lUUIWjP2LEzU9mhRxGO5UvqxSWuErkHE8synM45vWWFlX/QsjSDq4vFKDafRAGQd5P+lmsj9cLnebY0udLHycf0mzL420O+pTkCOv/yPteMHhEQQcWGSPBrVGnSdq4zWwL03eDX6rA8W4Bsq0+4DIJ0pB2VkZv7DH9Cbeobx17NjiqFegwEoLLX/DKVlyLbD04COtcyReQW84L+ECYdtpVjR9c1T3UMLE7uVvHZq9yhvf/E2xlncht//6Wy9elXWI=",
-      "jar": "https://file.suoeryun.com/jars/5c06b1be91fe59a6",
+      "jar": "http://192.168.0.104:9999/jar/5c06b1be91fe59a6",
       "searchable": 1
     },
     {
@@ -936,7 +936,7 @@
         "综艺",
         "动漫"
       ],
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "热播影视",
@@ -949,7 +949,7 @@
       "ext": {
         "url": "http://v.rbotv.cn"
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "火狐",
@@ -968,7 +968,7 @@
       },
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "金牌影视",
@@ -979,7 +979,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "骚火影视",
@@ -991,7 +991,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "瓜子影视",
@@ -1001,7 +1001,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "柠檬",
@@ -1009,7 +1009,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "https://file.suoeryun.com/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1035,7 +1035,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
-      "jar": "https://file.suoeryun.com/jars/ca188bc2744ff1ea"
+      "jar": "http://192.168.0.104:9999/jar/ca188bc2744ff1ea"
     },
     {
       "key": "哔哩哔哩小品",
@@ -1053,7 +1053,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "哔哩哔哩戏曲",
@@ -1071,7 +1071,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "哔哩少儿",
@@ -1089,7 +1089,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "️小学",
@@ -1107,7 +1107,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "️初中",
@@ -1125,7 +1125,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "️高中",
@@ -1143,7 +1143,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "口才",
@@ -1161,7 +1161,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "拼音",
@@ -1179,7 +1179,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "识字",
@@ -1197,7 +1197,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "思维",
@@ -1215,7 +1215,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "英语",
@@ -1233,7 +1233,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "科学",
@@ -1251,7 +1251,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "国学",
@@ -1269,7 +1269,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "地理",
@@ -1287,7 +1287,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "编程",
@@ -1305,7 +1305,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "武术",
@@ -1323,7 +1323,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "csp_BBB",
@@ -1341,7 +1341,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "歌曲",
@@ -1359,7 +1359,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "美食",
@@ -1377,7 +1377,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "球类",
@@ -1395,7 +1395,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "️演唱",
@@ -1413,7 +1413,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "️戏曲",
@@ -1431,7 +1431,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "影视影视",
@@ -1449,7 +1449,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://file.suoeryun.com/jars/a312681ce57c0792"
+      "jar": "http://192.168.0.104:9999/jar/a312681ce57c0792"
     },
     {
       "key": "360",
@@ -1459,7 +1459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "nbys",
@@ -1469,7 +1469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_Alist",
@@ -1501,7 +1501,7 @@
         "🌨秋雨分享": "https://share.laowang.me",
         "💦讯维云盘": "https://pan.xwbeta.com"
       },
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_lez",
@@ -1517,7 +1517,7 @@
           "sort": 1
         }
       },
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_XBPQ_6080",
@@ -1557,7 +1557,7 @@
         "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他内地&港台&日韩&欧美||国产&日本&欧美&其他",
         "筛选": "1"
       },
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_XBPQ_南瓜影视",
@@ -1568,7 +1568,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_biubiu_短视频",
@@ -1579,7 +1579,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_zxzj",
@@ -1590,7 +1590,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/json/XBiu/zxzj.json",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_auete",
@@ -1601,7 +1601,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://home.jundie.top:666/json/XBiu/auete.json",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_lib",
@@ -1612,7 +1612,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "drpy_js_ddys",
@@ -1623,7 +1623,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "drpy_js_akjs",
@@ -1634,7 +1634,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_zbk",
@@ -1645,7 +1645,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_ysgc",
@@ -1656,7 +1656,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "csp_xb_cokemv",
@@ -1667,7 +1667,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "Gitcafe",
@@ -1679,7 +1679,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "token;desc",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "找资源",
@@ -1690,7 +1690,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "upyunsou",
@@ -1702,7 +1702,7 @@
       "playerType": 1,
       "filterable": 0,
       "ext": "token;asc",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "yisou",
@@ -1713,7 +1713,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "AliPS",
@@ -1724,7 +1724,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "push_agent_2",
@@ -1736,7 +1736,7 @@
       "playerType": 1,
       "filterable": 1,
       "ext": "token;desc",
-      "jar": "https://file.suoeryun.com/jars/45d6ea1eee4352ac"
+      "jar": "http://192.168.0.104:9999/jar/45d6ea1eee4352ac"
     },
     {
       "key": "豆瓣2",
@@ -1753,7 +1753,7 @@
       "type": 3,
       "api": "csp_Notice",
       "searchable": 1,
-      "jar": "https://file.suoeryun.com/jars/ff4f99fad585f4935fcaa06e3092e44a;md5;ff4f99fad585f4935fcaa06e3092e44a",
+      "jar": "http://192.168.0.104:9999/jar/ff4f99fad585f4935fcaa06e3092e44a;md5;ff4f99fad585f4935fcaa06e3092e44a",
       "ext": "https://tv.nxog.top/m/公告?b=tv",
       "quickSearch": 1,
       "filterable": 1
@@ -1765,7 +1765,7 @@
       "changeable": "0",
       "api": "csp_Duopan",
       "filterable": 1,
-      "jar": "https://file.suoeryun.com/jars/95d710fd96c41285f275b40ee4272a75;md5;95d710fd96c41285f275b40ee4272a75",
+      "jar": "http://192.168.0.104:9999/jar/95d710fd96c41285f275b40ee4272a75;md5;95d710fd96c41285f275b40ee4272a75",
       "ext": {
         "site_urls": [
           "https://woog.nxog.fun",
@@ -1871,7 +1871,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "https://file.suoeryun.com/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i",
       "searchable": 1,
       "quickSearch": 1,
@@ -1883,7 +1883,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "https://file.suoeryun.com/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l",
       "searchable": 1,
       "quickSearch": 1,
@@ -1893,7 +1893,7 @@
       "key": "大师兄",
       "name": "【ICE】💡师兄┃影视 「春莹天下」",
       "type": 3,
-      "jar": "https://file.suoeryun.com/jars/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "http://192.168.0.104:9999/jar/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
       "playerType": 2,
       "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430",
@@ -1907,7 +1907,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://file.suoeryun.com/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
       "searchable": 1,
       "quickSearch": 1,
@@ -1919,7 +1919,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://file.suoeryun.com/jars/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "http://192.168.0.104:9999/jar/939FFBC2941A28CA533F2653FA4B449E;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9",
       "searchable": 1,
       "quickSearch": 1,
@@ -2413,7 +2413,7 @@
       "key": "养生堂",
       "name": "【ICE】🧿养生｜知识 「春莹天下」",
       "type": 3,
-      "jar": "https://file.suoeryun.com/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "api": "csp_XBPQ",
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/养生堂.json",
       "style": {
@@ -2429,7 +2429,7 @@
       "name": "【ICE】🧿永乐｜影视(2) 「俊佬接口」",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://file.suoeryun.com/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -2445,7 +2445,7 @@
       "name": "【ICE】🧿布卡｜影视 「春莹天下」",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://file.suoeryun.com/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "副标题": "欧歌专属",
         "请求头": "User-Agent$MOBILE_UA",
@@ -2462,7 +2462,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/啊哈DJ.json",
-      "jar": "https://file.suoeryun.com/jars/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
+      "jar": "http://192.168.0.104:9999/jar/4d860d06ec233dbcb891b76055f099d5;md5;4d860d06ec233dbcb891b76055f099d5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2597,7 +2597,7 @@
       "key": "Huya",
       "name": "【ICE】🎮游戏┃直播",
       "type": 3,
-      "jar": "https://file.suoeryun.com/jars/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "http://192.168.0.104:9999/jar/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_Huya",
       "searchable": 0,
       "quickSearch": 0,
@@ -2614,7 +2614,7 @@
       "name": "【ICE】🎮手游┃直播",
       "type": 3,
       "api": "csp_Douyu",
-      "jar": "https://file.suoeryun.com/jars/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "http://192.168.0.104:9999/jar/a4f403a000bc5e4ebdd9da27fcb05852;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -41667,7 +41667,7 @@
     "哔哩",
     "哔哩哔哩"
   ],
-  "spider": "https://file.suoeryun.com/jars/5af5edf697f25b99eb189fb800e1d098;md5;5af5edf697f25b99eb189fb800e1d098"
+  "spider": "http://192.168.0.104:9999/jar/5af5edf697f25b99eb189fb800e1d098;md5;5af5edf697f25b99eb189fb800e1d098"
 }
 
 
